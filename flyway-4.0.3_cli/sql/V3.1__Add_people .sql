@@ -1,0 +1,1 @@
+alter table person add sex char(100) not null;
